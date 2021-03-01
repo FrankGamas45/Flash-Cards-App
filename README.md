@@ -7,10 +7,9 @@
 ### App Description
 This app displays a question and the user can click on the question to reveal the answer and when they wish to switch back to the question they can click on the answer again and can do this repeatedly.
 
-### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+### App Walk-though)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://github.com/FrankGamas45/Flash-Cards-App/raw/main/FlashCard.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
