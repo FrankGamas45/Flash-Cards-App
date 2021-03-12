@@ -7,7 +7,7 @@ This app displays a question and the user can click on the question to reveal th
 
 ### App Walk-though)
 
-<img src="https://github.com/FrankGamas45/Flash-Cards-App/raw/main/FlashCard.gif" width=200><br>
+<img src="https://github.com/FrankGamas45/Flash-Cards-App/raw/main/FlashCard2.gif" width=200><br>
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
