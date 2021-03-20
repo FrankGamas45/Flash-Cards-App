@@ -29,9 +29,8 @@ This app displays a question and the user can click on the question to reveal th
 In this lab I added some new features that allowed the user to be able to add more flash cards and be able to scroll through their newly added cards. This will allow the app to be more customizable and overall better for the user interface.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://github.com/FrankGamas45/Flash-Cards-App/raw/main/FlashCard3.gif" width=200><br>
 
 ## Required
 - [x] User can create a card and still see their created card when the app is relaunched.
