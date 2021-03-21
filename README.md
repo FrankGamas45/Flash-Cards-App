@@ -30,7 +30,7 @@ In this lab I added some new features that allowed the user to be able to add mo
 
 ### App Walk-though
 
-<img src="https://github.com/FrankGamas45/Flash-Cards-App/raw/main/FlashCard3.gif" width=200><br>
+<img src="https://github.com/FrankGamas45/Flash-Cards-App/raw/main/FlashCard.3.gif" width=200><br>
 
 ## Required
 - [x] User can create a card and still see their created card when the app is relaunched.
