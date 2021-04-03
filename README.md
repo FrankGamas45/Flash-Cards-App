@@ -41,3 +41,23 @@ In this lab I added some new features that allowed the user to be able to add mo
 - [ ] Flashcards are shown in random order instead of the order they were created in
 - [ ] User can edit a card and see the edit saved when they browse through their deck of cards
 - [ ] User can create flashcards with multiple answers and be able to browse through cards with multiple choice answers shown
+
+## Lab 4
+
+### App Description
+In this lab I added new animations when the 'add' button is tapped, the reveal of an answer and when the 'next' button is tapped.
+
+### App Walk-though
+
+<img src="YOUR_GIF_URL_HERE" width=200><br>
+
+## Required
+- [x] User sees a transition animation when going from the main screen to the add card screen.
+- [x] User sees a reveal animation when the flashcard is tapped and the answer is shown
+- [x] User sees flashcards animating in / out when the 'next' button is tapped
+
+## Optional
+- [ ] Extra styling is added!
+- [ ] User sees a countdown timer for each question
+- [ ] User sees a 'card flip' animation when the card is tapped
+- [ ] User sees a celebration animation with confetti when they answer a question correctly
